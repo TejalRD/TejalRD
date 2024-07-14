@@ -13,7 +13,7 @@ About me 👩🏻‍💻
 
 Tech Stack 💻
 
-Languages: C, C++, Java, SQL, PL SQL,Haskell, HTML, Python, JavaScript
+Languages: C, C++, Java, SQL, PL SQL,C#, HTML, Python, JavaScript, Swift
 
 Database: NoSQL, MongoDB, Firebase
 
