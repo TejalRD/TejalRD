@@ -6,9 +6,7 @@ About me 👩🏻‍💻
 
 🌐 I firmly believe in the motto- Tech for Good! 
 
-🎓 Masters student at Binghamton University- SUNY majoring in Computer Science
-
-
+🎓 Masters student at Binghamton University- SUNY major in Computer Science
 
 
 Tech Stack 💻
@@ -18,3 +16,6 @@ Languages: C, C++, Java, SQL, PL SQL,C#, HTML, Python, JavaScript, Swift
 Database: NoSQL, MongoDB, Firebase
 
 Cloud and Tools: Google Cloud Platform, Docker, Visual Studio Code,Git
+
+Connect with me : https://www.linkedin.com/in/tejalrdaga/
+Check out my portfolio: https://tejal-daga.vercel.app/
