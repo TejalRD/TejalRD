@@ -1,21 +1,49 @@
-# Hello World, I'm Tejal!
+# Hello World, I'm Tejal! 👋
 
-About me 👩🏻‍💻
+## About me 👩🏻‍💻
 
-🚀 A focused, curios and self-driven engineer with an agile mind and strong problem solving skills.
+🚀 A software engineer with 3+ years of experience building scalable, production-grade systems across backend, cloud, and AI applications.  
 
-🌐 I firmly believe in the motto- Tech for Good! 
+⚙️ Focused on distributed systems, backend engineering, and AI/LLM-powered applications (RAG, LangChain).  
 
-🎓 Masters student at Binghamton University- SUNY major in Computer Science
+🧠 Strong problem-solving mindset with a focus on performance, reliability, and real-world impact.  
 
+🌐 I believe in building technology that is practical, scalable, and meaningful — *Tech for Good.*  
 
-Tech Stack 💻
+🎓 Master’s in Computer Science, Binghamton University (SUNY)  
 
-Languages: C, C++, Java, SQL, PL SQL,C#, HTML, Python, JavaScript, Swift
+---
 
-Database: NoSQL, MongoDB, Firebase
+## Tech Stack 💻
 
-Cloud and Tools: Google Cloud Platform, Docker, Visual Studio Code,Git
+**Languages:**  
+Java, C#, Python, C++, JavaScript, SQL  
 
-Connect with me : https://www.linkedin.com/in/tejalrdaga/
-Check out my portfolio: https://tejal-daga.vercel.app/
+**Backend & Systems:**  
+.NET, Node.js, REST APIs, Distributed Systems, CI/CD  
+
+**AI / ML:**  
+LLMs, RAG, LangChain, Hugging Face, Vector Databases (Pinecone)  
+
+**Databases:**  
+MongoDB, NoSQL, Firebase  
+
+**Cloud and Tools:**  
+AWS, Google Cloud Platform, Docker, Git, Visual Studio Code  
+
+---
+
+## Connect with me 🌐
+
+🔗 LinkedIn: https://www.linkedin.com/in/tejalrdaga/  
+🌍 Portfolio: https://tejal-daga.vercel.app/  
+
+---
+
+## 🔍 Keywords
+
+Software Engineer | Backend Engineer | AI Engineer | Machine Learning | LLM | RAG | LangChain | Distributed Systems | AWS | Python | C# | Java | Cloud Computing | Scalable Systems  
+
+---
+
+🚀 *Building systems that scale. Solving problems that matter.*
