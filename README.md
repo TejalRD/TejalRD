@@ -1,49 +1,37 @@
-# Hello World, I'm Tejal! 👋
+# Hi, I'm Tejal 👋
 
-## About me 👩🏻‍💻
+Software Engineer focused on backend systems, distributed infrastructure, and AI-powered automation workflows.
 
-🚀 A software engineer with 3+ years of experience building scalable, production-grade systems across backend, cloud, and AI applications.  
+I enjoy building production-oriented systems that combine:
 
-⚙️ Focused on distributed systems, backend engineering, and AI/LLM-powered applications (RAG, LangChain).  
+* scalable backend engineering
+* operational tooling
+* orchestration pipelines
+* AI/LLM workflows
+* distributed systems
+* diagnostics and automation
 
-🧠 Strong problem-solving mindset with a focus on performance, reliability, and real-world impact.  
+## Current Areas of Interest
 
-🌐 I believe in building technology that is practical, scalable, and meaningful — *Tech for Good.*  
+* Applied AI & LLM workflows
+* Backend infrastructure
+* AI orchestration systems
+* Distributed systems
+* Automation & developer tooling
+* Local-first AI applications
 
-🎓 Master’s in Computer Science, Binghamton University (SUNY)  
+## Tech Stack
 
----
+**Languages:** Python, Java, C#, C++, SQL
+**Backend:** REST APIs, Spring Boot, Distributed Systems
+**AI/ML:** LLMs, RAG, LangChain, Prompt Engineering, Vector Databases
+**Cloud & Infra:** Docker, AWS, GCP, CI/CD, Linux
 
-## Tech Stack 💻
+## Featured Projects
 
-**Languages:**  
-Java, C#, Python, C++, JavaScript, SQL  
+* PacketLens AI — AI-powered network diagnostics assistant
+* AI Knowledge Assistant — RAG + orchestration workflows
+* YouTube Video Summarizer — local AI summarization pipeline
 
-**Backend & Systems:**  
-.NET, Node.js, REST APIs, Distributed Systems, CI/CD  
-
-**AI / ML:**  
-LLMs, RAG, LangChain, Hugging Face, Vector Databases (Pinecone)  
-
-**Databases:**  
-MongoDB, NoSQL, Firebase  
-
-**Cloud and Tools:**  
-AWS, Google Cloud Platform, Docker, Git, Visual Studio Code  
-
----
-
-## Connect with me 🌐
-
-🔗 LinkedIn: https://www.linkedin.com/in/tejalrdaga/  
-🌍 Portfolio: https://tejal-daga.vercel.app/  
-
----
-
-## 🔍 Keywords
-
-Software Engineer | Backend Engineer | AI Engineer | Machine Learning | LLM | RAG | LangChain | Distributed Systems | AWS | Python | C# | Java | Cloud Computing | Scalable Systems  
-
----
-
-🚀 *Building systems that scale. Solving problems that matter.*
+🔗 Portfolio: https://tejal-daga.vercel.app/
+🔗 LinkedIn: https://www.linkedin.com/in/tejalrdaga/
