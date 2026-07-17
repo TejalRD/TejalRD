@@ -33,7 +33,6 @@ I enjoy building production-oriented systems that combine:
 ## Featured Projects
 
 * PacketLens AI — AI-powered network diagnostics assistant
-* AI Knowledge Assistant — RAG + orchestration workflows
 * YouTube Video Summarizer — local AI summarization pipeline
 
 🔗 Portfolio: https://tejal-daga.vercel.app/
