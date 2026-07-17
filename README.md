@@ -13,7 +13,6 @@ I enjoy building production-oriented systems that combine:
 
 ## Current Areas of Interest
 
-* Applied AI & LLM workflows
 * Backend infrastructure
 * AI orchestration systems
 * Distributed systems
