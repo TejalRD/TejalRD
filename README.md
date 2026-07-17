@@ -22,10 +22,15 @@ I enjoy building production-oriented systems that combine:
 ## Tech Stack
 
 **Languages:** Python, Java, C#, C++, SQL, Go
+
 **Backend:** REST APIs, Spring Boot, FastAPI, .NET, Node.js, REST APIs, Microservices
+
 **AI/ML:** LLMs, RAG, LangChain, Prompt Engineering, Vector Databases, NLP, Ollama, GitHub Copilot, Cursor, Claude Code, Amazon Q
+
 **Cloud & DevOps :** Docker, AWS, GCP, CI/CD, Linux, Kubernetes
+
 **Systems:** Linux, Distributed Systems, TCP/IP, Multi-threading
+
 **Databases:** PostgreSQL, MySQL, SQL Server, MongoDB, Firebase
 
 
