@@ -1,44 +1,65 @@
 # Hi, I'm Tejal 👋
 
-Software Engineer focused on backend systems, distributed infrastructure, and AI-powered automation workflows.
+Software Engineer working at the intersection of **engineering, AI, and technical program execution**.
 
-I enjoy building production-oriented systems that combine:
+My background is in building backend systems, automation platforms, and production infrastructure — but increasingly, my work has expanded beyond the code itself: defining technical scope, coordinating dependencies, driving cross-functional execution, troubleshooting production issues, and taking systems from idea → rollout → adoption.
 
-* scalable backend engineering
-* operational tooling
-* orchestration pipelines
-* AI/LLM workflows
-* distributed systems
-* diagnostics and automation
+I enjoy solving problems where **technical depth meets execution**.
 
-## Current Areas of Interest
+## What I Work On
 
-* Backend infrastructure
-* AI orchestration systems
-* Distributed systems
-* Automation & developer tooling
-* Local-first AI applications
+* ⚙️ Backend & distributed systems
+* 🤖 AI/LLM-powered automation
+* 🔧 Developer & operational tooling
+* 🚀 Technical program execution & production rollouts
+* 📊 Reliability, diagnostics & data-driven improvements
+* 🔗 Cross-functional software, hardware & infrastructure programs
 
 ## Tech Stack
 
 **Languages:** Python, Java, C#, C++, SQL, Go
 
-**Backend:** REST APIs, Spring Boot, FastAPI, .NET, Node.js, REST APIs, Microservices
+**Backend:** REST APIs, Spring Boot, FastAPI, .NET, Node.js, Microservices
 
-**AI/ML:** LLMs, RAG, LangChain, Prompt Engineering, Vector Databases, NLP, Ollama, GitHub Copilot, Cursor, Claude Code, Amazon Q
+**AI/ML:** LLMs, RAG, LangChain, NLP, Vector Databases, Prompt Engineering, Ollama
 
-**Cloud & DevOps :** Docker, AWS, GCP, CI/CD, Linux, Kubernetes
+**AI-Assisted Development:** GitHub Copilot, Cursor, Claude Code, Amazon Q
 
-**Systems:** Linux, Distributed Systems, TCP/IP, Multi-threading
+**Cloud & DevOps:** Docker, AWS, GCP, CI/CD, Linux, Kubernetes
+
+**Systems:** Distributed Systems, TCP/IP, Multi-threading
 
 **Databases:** PostgreSQL, MySQL, SQL Server, MongoDB, Firebase
 
-
-
 ## Featured Projects
 
-* PacketLens AI — AI-powered network diagnostics assistant
-* YouTube Video Summarizer — local AI summarization pipeline
+### 📋 Meeting Action Tracker
+
+**AI-powered meeting notes → execution workflow**
+
+Turns raw meeting discussions into structured, measurable action items with **owners and deadlines** using a locally hosted LLM.
+
+Built around a problem I see often in technical programs: **information isn't usually the bottleneck — turning it into clear ownership and action is.**
+
+### 🔎 PacketLens AI
+
+**AI-powered network diagnostics assistant**
+
+Analyzes packet-level network failures and translates technical diagnostics into clear, actionable explanations — combining backend engineering, networking, and local LLMs.
+
+### 🎥 YouTube Video Summarizer
+
+**Local-first AI summarization pipeline**
+
+Processes video content through transcription and AI summarization locally, exploring end-to-end AI orchestration without relying on hosted APIs.
+
+---
+
+### The theme behind what I build
+
+**Engineering tells me how systems work.
+Program ownership tells me where they break.
+AI gives me new ways to fix the gaps.**
 
 🔗 Portfolio: https://tejal-daga.vercel.app/
 🔗 LinkedIn: https://www.linkedin.com/in/tejalrdaga/
