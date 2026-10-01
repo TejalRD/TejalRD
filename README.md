@@ -1,6 +1,6 @@
 # Hi, I'm Tejal 👋
 
-Software Engineer working at the intersection of **engineering, AI, and technical program execution**.
+Software Test Engineer working at the intersection of **engineering, AI, and technical program execution**.
 
 My background is in building backend systems, automation platforms, and production infrastructure — but increasingly, my work has expanded beyond the code itself: defining technical scope, coordinating dependencies, driving cross-functional execution, troubleshooting production issues, and taking systems from idea → rollout → adoption.
 
